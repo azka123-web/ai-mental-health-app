@@ -1,8 +1,8 @@
-AI Mental Health App
+*AI Mental Health App*
 
 An AI-powered mental health application developed as a Final Year Project.
 
-Features
+*Features*
 
 AI Chatbot Support
 Mental Health Detection
@@ -11,7 +11,7 @@ Exercise Recommendations
 Firebase Authentication
 Cloud Firestore Integration
 
-Technologies Used
+*Technologies Used*
 
 Flutter
 Dart
@@ -19,6 +19,6 @@ Firebase
 FastAPI
 Machine Learning
 
-Purpose
+*Purpose*
 
 The application aims to provide mental health support through AI-powered features and an easy-to-use mobile interface.
