@@ -1,0 +1,61 @@
+name: mindease
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^4.3.0
+  cloud_firestore: ^6.1.1
+  firebase_auth: ^6.1.3
+  firebase_storage: ^13.0.5
+  firebase_analytics: ^12.1.0
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.66.2
+  http: ^1.2.0
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.4
+  permission_handler: ^11.3.1
+  video_player: ^2.8.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/logo.png
+
+# ✅ SPLASH CONFIG (ONLY THIS PART WAS FIXED)
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/splash.png
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/splash.png
+    - assets/stress_low.png
+    - assets/stress_moderate.png
+    - assets/stress_high.png
+    - assets/depression_low.png
+    - assets/depression_moderate.png
+    - assets/depression_high.png
+    - assets/diagnosispic.png
+    - assets/habitpic.png
+    - assets/signuppic.png
+    - assets/stressvideo.mp4
+    - assets/depressionvideo.mp4
