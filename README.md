@@ -17,7 +17,7 @@ Flutter,
 Dart,
 Firebase,
 FastAPI,
-Machine Learning,
+Machine Learning
 
 *Purpose*
 
