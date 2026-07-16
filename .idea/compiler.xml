@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="android.cloud_firestore" target="21" />
+      <module name="android.firebase_analytics" target="21" />
+      <module name="android.firebase_auth" target="21" />
+      <module name="android.firebase_core" target="21" />
+      <module name="android.firebase_storage" target="21" />
+      <module name="android.flutter_native_timezone" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
